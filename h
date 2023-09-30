@@ -1,6 +1,7 @@
 {
     "word": "harsh",
-    "definitions": [
+    "definitions":
+     [
         "harsh means happy in gujrati and hard in english"
     ],
     "parts-of-speech": "adjective"
